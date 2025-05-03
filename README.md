@@ -7,3 +7,7 @@
  - [practical 3](https://github.com/ninja9210/cn/blob/main/program3.java)
 4. **Implementation of RSA Asymmetric Cryptographic Algorithm**
  - [practical 4](https://github.com/ninja9210/cn/blob/main/program4.c)
+5. **Implementation Of TCP Socket(TCP Server and TCP Client)**
+ - [practical 4](https://github.com/ninja9210/cn/blob/main/practical 5)
+6. **Implementation Of UDP Socket(UDP Server and UDP Client)**
+ - [practical 4](https://github.com/ninja9210/cn/blob/main/practical 6)
